@@ -6,7 +6,7 @@ Converted from JS to C++ from the following gist: https://gist.githubusercontent
 
 ## Example usage
 
-Create a procedural terrain by convert volumetric (density) data into a triangle mesh using marching cubes algorithms
+Create a procedural terrain by convert volumetric (density) data into a triangle mesh using the marching cubes algorithm.
 
 ```c++
 #include <vector>
