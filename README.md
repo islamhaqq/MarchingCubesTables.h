@@ -6,6 +6,8 @@ Converted from JS to C++ from the following gist: https://gist.githubusercontent
 
 ## Example usage
 
+Create a procedural terrain by convert volumetric (density) data into a triangle mesh using marching cubes algorithms
+
 ```c++
 #include <vector>
 #include <glm/glm.hpp>
