@@ -7,6 +7,7 @@ Converted from JS to C++ from the following gist: https://gist.githubusercontent
 ## Example usage
 
 ```c++
+#include "MarchingCubesTables.h"
 
 struct Triangle {
     glm::vec3 vertices[3];
